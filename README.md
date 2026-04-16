@@ -4,10 +4,10 @@ A complete Telegram bot for game top-up services with an admin dashboard.
 
 ## Features
 
-- 🤖 Telegram Bot for ordering
+- 🤖 Telegram Bot for online product ordering
 - 📊 React Admin Dashboard
-- 💳 Multiple payment methods
-- 🎮 Support for PUBG, Free Fire, TikTok, Telegram Premium
+- 💳 Dynamic Multiple payment methods
+- 🎮 Support for PUBG, Free Fire, TikTok, Telegram Premium Any Dynamic Category 
 - ⚡ Instant delivery via Ragner API
 - 📦 Manual delivery option
 - 📱 Mobile responsive dashboard
@@ -31,9 +31,6 @@ A complete Telegram bot for game top-up services with an admin dashboard.
 
 See `.env.example` for required variables.
 
-## Screenshots
-
-(Add screenshots of your bot and dashboard) 
 
 ## Live Demo
 
