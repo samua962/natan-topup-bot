@@ -33,12 +33,14 @@ See `.env.example` for required variables.
 
 ## Screenshots
 
-(Add screenshots of your bot and dashboard)
+(Add screenshots of your bot and dashboard) 
 
 ## Live Demo
 
-(Optional - only if you have a demo instance)
+live bot: https://t.me/Nathantopupbot
+
+Admin Dashboard:  https://natan-topup-bot-production.up.railway.app/
 
 ## Author
 
-Your Name - [GitHub Profile]
+Samuel Tesfaye - https://github.com/samua962
